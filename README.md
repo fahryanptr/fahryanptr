@@ -104,8 +104,8 @@ console.log(`Let's build something amazing together! 🚀`);
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahryanptr&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00ff41&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahryanptr&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00ff41&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats-ten-bice.vercel.app/api?username=fahryanptr&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00ff41&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats-ten-bice.vercel.app/api/top-langs/?username=fahryanptr&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00ff41&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_radius=10"/>
 </div>
 
 <div align="center">
