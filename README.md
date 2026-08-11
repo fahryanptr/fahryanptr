@@ -103,9 +103,7 @@ console.log(`Let's build something amazing together! 🚀`);
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahryanptr&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00ff41&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_radius=10"/>
-</div>
+
 
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahryanptr&theme=dark&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff41&sideLabels=00ff41&dates=888888&border_radius=10" />
